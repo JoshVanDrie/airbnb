@@ -1,5 +1,4 @@
-import Katie from './images/katie_zaferes.png'
-
+// eslint-disable-next-line import/no-anonymous-default-export
 export default [
     {
         id: 1,
